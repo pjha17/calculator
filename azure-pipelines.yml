@@ -19,5 +19,6 @@ steps:
     npm install
     npm run build
 #   //dummy changes
+#   //dummy changes
     npm test
   displayName: 'npm install, build, and test'
